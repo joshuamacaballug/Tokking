@@ -18,6 +18,7 @@
     "react-router-dom": "^6.21.3",
     "socket.io-client": "^4.7.4",
     "Tokking": "file:..",
+    "Tokking-chat-app": "file:..",
     "zustand": "^4.5.0"
   },
   "devDependencies": {
